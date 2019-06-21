@@ -1,0 +1,46 @@
+FFi Reason for Existence
+========================
+
+Summary of problems:
+
+1. Fashion's software tools are written to meet the needs of the large industry players. The computer industry 
+faced a similar situation when IBM and big iron met only the needs of big industry players. In the late 
+1970's the personal computer began development. The personal computer empowered the 99% and changed the world.
+The FFi is promoting tools which will accomplish similar results in the fashion industry.
+
+2. Fashion's production methodologies don't reflect the values of its designer and consumer communities
+    - Unsavory labor conditions are also a business liability
+    - Toxic waste and large percentages of unsold inventory are unacceptable from both ecological and profit-
+      ability point of views.
+      
+3. Fashion's secretive culture prevents innovation. Old Henry-Ford-Era and even Victorian-era 
+workflows and assumptions are encoded into current proprietary software. Basic work tasks must be repeated 
+each time a new product is designed. Engineering efficiencies have not been incorporated into fashion. Reusability
+and collaboration are essential all design fields except fashion. Fashion critics admit that fashion depends on 
+copy/mix/reuse to keep up with design trends but the tools to produce fashion excludes encoding of these concepts.
+Open source software can bring desired chages to this outdated industry culture.
+
+__________________________
+
+Summary of solutions:
+
+FFi works to support the development of open source tools which address issues ignored by current industry tools and workflows:
+    - copy/mix/reuse
+    - reduced waste
+        -- toxins
+        -- materials
+        -- time
+    - improved customer alignment
+        -- improved fit
+        -- improved quality
+        -- improved creativity
+    - improved profits
+        -- reduced returns due to better fit & quality
+        -- reduced risk (better profit prediction)
+        -- reduced acceptance of poor labor conditions during manufacturing phase "last mile of production" 
+           which yield minimal profit increases
+        -- application of engineering efficiencies during design phase "first mile of production" yields greater profits
+    - increased creativity
+        -- collaboration between designers, teams, companies, manufacturers
+        -- less reliance on existing design memes 
+        -- utilization of latest technology without being restricted by legacy software and outmoded workflows
