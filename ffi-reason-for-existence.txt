@@ -1,6 +1,10 @@
 FFi Reason for Existence
 ========================
 
+
+The FFi mission is similar to Mozilla's mission. FFi is dedicated to creating and maintaining an open fashion industry, and Mozilla aims to do the same for the internet. Due to the secretive nature of the fashion industry, it isn't clear to the public or the industry itself how to solve fashion's problems. We believe that creating an open, transparent fashion industry through open source tools is essential before these problems can be solved.
+
+__________________________
 Summary of problems:
 
 1. Fashion's software tools are written to meet the needs of the large industry players. The computer industry 
