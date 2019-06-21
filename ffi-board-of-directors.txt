@@ -1,0 +1,44 @@
+FFi Board of Directors
+======================
+
+Meeting Schedule:
+The FFi Board meets about every 4 to 8 weeks, each meeting is typcially between 45 and 90 minutes.
+
+______________________
+Rules of order:
+    Informal meeting format. 
+    Minimal technology required is audio (phone) unless otherwise stated in meeting Agenda.
+    Agendas are posted prior to meetings. 
+    Old Business is discussed prior to New Business.
+    Small items and status reports are discussed prior to items requiring deep discussion.
+    
+______________________
+Responsibilities of the Board:
+    Define FFi mission, goals, and governance
+    Submit and review proposals within any of five catergories:
+        - Software
+        - Events
+        - Funds
+        - Administration
+        - Education
+    Provide thoughtful, constructive feedback to submitted proposals
+    Raise funds
+    Recruit project managers, directors, and other volunteers 
+    Contribute toward the success of at least one project or fundraiser per year
+    
+______________________    
+Experience of Board members ideally will lie within any of the following categories:
+    Software development
+    Community building
+    Event planning (to bring developers and users together)
+    Fundraising
+    Bringing "moonshot" big ideas forward
+    Open Source business models
+    Organization development and administration
+    Journalism and Social Media
+    Industry transformation
+    
+
+
+
+
