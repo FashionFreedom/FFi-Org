@@ -1,0 +1,19 @@
+qt-response-to-rfp.txt
+___________________________________________
+
+QT Consulting Services
+Steve Collins
+qt.io
+
+1. One week Starter Pack $8000
+    - Analyze code base (2 days)
+        --Build project, become familiar with functionality
+        --Document project file structure, use of widgets,  UI patterns, third party libraries
+    - On site information transfer (3 days)
+        --Present the analysis
+        --Answer general questions on Qt
+    
+2. Onsite training for up to 12 people (5 days) $15,000
+    -Custom training class based on the Seamly code base
+    -Qt Essentials and Qt Widgets
+    -Other topics as needed
